@@ -1,0 +1,10 @@
+# Python cache
+**/__pycache__/
+
+# Environment
+.venv/
+
+# VSCode config
+.vscode/
+
+*.png
